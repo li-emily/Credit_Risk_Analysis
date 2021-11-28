@@ -15,7 +15,7 @@
 ### Resources
 - Languages and Packages: Python, pandas, numpy, imbalanced-learn, scikit-learn, path, collections
 - Interface and Environment: Jupyter Notebook, Visual Studio Code, Terminal, Miniconda
-- Data Source: Credit card credit dataset from LendingClub
+- Data Source: Quarter 1 2019 credit card credit dataset from LendingClub
 
 ## Results
 ### Deliverable 1
